@@ -5,7 +5,6 @@ int func4(int N);
 int main(void)
 {
     int a = 0, b = 0, c = 0;
-
     a = func4(5);
     b = func4(97615282);
     c = func4(1024);
